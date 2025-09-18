@@ -12,3 +12,5 @@ main line 2
 
 Conflict line
 >>>>>>> feature
+
+some changesssss
